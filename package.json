@@ -1,16 +1,16 @@
 {
-  "name": "exceljs",
-  "version": "4.4.0",
-  "description": "Excel Workbook Manager - Read and Write xlsx and csv Files.",
+  "name": "exceljsfork",
+  "version": "1.0.0",
+  "description": "Excel Workbook Manager - Read and Write xlsx and csv Files. Fork from v4.4.0",
   "private": false,
   "license": "MIT",
   "author": {
-    "name": "Guyon Roche",
-    "email": "guyon@live.com"
+    "name": "Simon Steinhauser",
+    "email": "steinhauser.simon@gmail.com"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/exceljs/exceljs.git"
+    "url": "https://github.com/uniqueSimon/exceljs.git"
   },
   "engines": {
     "node": ">=8.3.0"
